@@ -15,4 +15,5 @@ The limitation is that a single pair processing should have less than a time lim
 4. `collector` watches all the results created by `analyzer`s and combines them into a single file that is sent to the user bucket. 
 
 
-
+## Additional ideas to discuss
+![Additional ideas and links](links_and_ideas.md)
